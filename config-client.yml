@@ -2,5 +2,4 @@ info:
   profile: default
 
 
-custom:
-    info: config_client
+custom_info: config_client

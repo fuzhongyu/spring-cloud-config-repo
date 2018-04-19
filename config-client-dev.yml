@@ -2,5 +2,4 @@ info:
   profile: dev
 
 
-custom:
-    info: config_client_dev
+custom_info: config_client_dev
