@@ -1,2 +1,6 @@
 info:
   profile: dev
+
+
+custom:
+    info: config_client_dev
